@@ -7,7 +7,7 @@ This a default organisation health repository to keep predefined files that prov
 ## How to...
 ### ...create a template specific to a repository?
 - Create a `.github` folder in the desired repository.
-- Add you template file. e.g. `PULL_REQUEST_TEMPLATE.md`
+- Add you template file in the `.github` folder. e.g. `PULL_REQUEST_TEMPLATE.md`
 - The repository template will override the organisation tmeplate from the .github repository.
 
 ## Source
