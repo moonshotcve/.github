@@ -29,3 +29,9 @@
 
 ## Ticket
 <!-- Is there a ticket related to this change? -->
+
+---
+
+## Developer Helper: Guide to Prepare This Description
+
+See [DEVELOPER_HELPER_COMMANDS.md](./DEVELOPER_HELPER_COMMANDS.md) for helpful git commands to prepare your pull request description.
